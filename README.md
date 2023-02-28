@@ -9,6 +9,9 @@ Funzioni richiamabili tramite lato client:
 - Notifiche
 
   **TriggerEvent("OuDayasLIB:ShowAdvancedNotification", function(title, subject, msg, icon, iconType, color )**
+
+<br>
+ 
   **TriggerEvent("OuDayasLIB:ShowNotification", function(msg, color)**
   OuDayas.AdvancedNotification(title, subject, msg, icon, iconType, color)
     icon type:
