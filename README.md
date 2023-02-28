@@ -42,3 +42,11 @@ Funzioni richiamabili tramite lato client:
 
   **OuDayas.GetNearbyPed(X, Y, Z, Raggio esempio: 2.0)**
   Funzione per prendere i dati del npc più vicino alle coordinate selezionate
+  
+
+## Altro
+
+È presente un piccolo sistema per i lavori, indipendente da es extended
+Lo script è dotato di un piccolo sistema per permettere di non eliminare il job default in grado di permettere l'efficienza
+Il comando per dare il lavoro è configurabile nel `Config.JobSystem`
+esempio - Il comando funzionerà così: /od_setjob [id player] [lavoro] [numero grado]
