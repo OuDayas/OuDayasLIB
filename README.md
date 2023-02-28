@@ -49,4 +49,5 @@ Funzioni richiamabili tramite lato client:
 È presente un piccolo sistema per i lavori, indipendente da es extended
 Lo script è dotato di un piccolo sistema per permettere di non eliminare il job default in grado di permettere l'efficienza
 Il comando per dare il lavoro è configurabile nel `Config.JobSystem`
+
 esempio - Il comando funzionerà così: /od_setjob [id player] [lavoro] [numero grado]
